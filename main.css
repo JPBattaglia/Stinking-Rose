@@ -83,7 +83,6 @@ html {
     margin: 50px auto;
     padding: 50px;
     border-radius: 15px;
-    background: url(Charred.jpg);
     background-size: 100% 120%;
     border: #FF2700 double 5px;
     max-width: 100%;
@@ -281,9 +280,9 @@ p {
     z-index: 1;
     top: 0;
     right: 0;
-    background: url(EllaSlideBW.jpeg);
+    background: url(GarlicBrowned.png);
     background-repeat: repeat;
-    background-size: 100% 100%;
+    background-size: 200% 100%;
     overflow-x: hidden;
     transition: .8s;
     padding-top: 150px;
@@ -298,7 +297,7 @@ p {
     display: block;
     transition: 1s;
     max-width: 100%;
-    text-align: center;
+    margin: 0 0 0 75px;
     text-shadow: 1px 1px 0 #FF2700, -1px -1px 0 #FF2700, 1px -1px 0 #FF2700, -1px 1px 0 #FF2700, 1px 1px 0 #FF2700;
     text-decoration: none;
 }
@@ -441,6 +440,7 @@ img {
     height: 580px;
     margin: auto;
     position: absolute;
+    border-top: 2px solid red;
 }
 
 #info {
@@ -448,7 +448,6 @@ img {
     padding-bottom: 20px;
     color: #700;
 }
-
 
 
 .menu img{
@@ -547,10 +546,12 @@ img {
         width: 40px;
         margin: 0px 20px;
         filter: drop-shadow(2px 1px 1px #000);
+        transition: 1s;
     }
     
     .sociallink:hover {
         filter: drop-shadow(1px 1px 3px #fff);
+        transition: 1s;
     }
     
     #stage {
@@ -598,7 +599,7 @@ img {
         margin: auto;
         width: 100%;
         max-height: 550px;
-        border-bottom: 1px solid gray;
+        border-bottom: 2px solid red;
     }
     
     .menu {
@@ -714,8 +715,8 @@ img {
     
     #form {
         text-align: center;
-        background: url(thegarlic.jpg);
-        background-size: 150% 100%;
+        background: url(StinkingRosePanel.png);
+        background-size: 100% 100%;
         border: 1px solid red;
         border-radius: 20px;
         width: 85%;
@@ -905,7 +906,7 @@ img {
     }
     
     #stage img{
-        border-bottom: 1px solid #000;
+        border-bottom: 2px solid red;
     }
     
     #intro {
@@ -994,10 +995,12 @@ img {
         width: 25px;
         margin: 0px 10px;
         filter: drop-shadow(2px 1px 1px #000);
+        transition: 1s;
     }
     
     .sociallink:hover {
         filter: drop-shadow(1px 1px 1px #fff);
+        transition: 1s;
     }
     
     #location h2 {
@@ -1010,8 +1013,8 @@ img {
     
     #form {
         text-align: center;
-        background: url(thegarlic.jpg);
-        background-size: 250% 100%;
+        background: url(StinkingRosePanel.png);
+        background-size: 100% 100%;
         border: 1px solid red;
         border-radius: 20px;
         width: 85%;
@@ -1221,14 +1224,16 @@ img {
         width: 50px;
         margin: 0px 50px;
         filter: drop-shadow(2px 1px 1px #000);
+        transition: 1s;
     }
     .sociallink:hover {
         filter: drop-shadow(-2px -1px 3px #fff);
+        transition: 1s;
     }
     #intro img {
         width: 100%;
         height: 750px;
-        border-bottom: 1px solid gray;
+        border-bottom: 2px solid red;
     }
     
     #banner{
@@ -1261,7 +1266,7 @@ img {
     }
     
     h2{
-        margin-top: 250px;
+        margin-top: 150px;
     }
     
     p {
@@ -1379,8 +1384,8 @@ img {
     #form {
         width: 70%;
         text-align: center;
-        background: url(thegarlic.jpg);
-        background-size: 150% 100%;
+        background: url(StinkingRosePanel.png);
+        background-size: 100% 100%;
         border: 1px solid red;
         border-radius: 20px;
         margin: 50px auto;
