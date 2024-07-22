@@ -765,9 +765,9 @@ img {
     
     #form {
         text-align: center;
-        background: black;
-        background-size: 50% 50%;
-        border: 1px solid gray;
+        background: url(Slow-Cooker-Roast-Garlic-1200-7602.jpg) center;
+        background-size: 150% 150%;
+        border: .5px double grey;
         border-radius: 20px;
         width: 85%;
         margin: 50px auto;
@@ -1063,9 +1063,9 @@ img {
     
     #form {
         text-align: center;
-        background: black;
-        background-size: 50% 50%;
-        border: 1px solid gray;
+        background: url(Slow-Cooker-Roast-Garlic-1200-7602.jpg) center;
+        background-size: 150% 150%;
+        border: .5px double grey;
         border-radius: 20px;
         width: 85%;
         margin: 30px auto;
@@ -1386,7 +1386,7 @@ img {
      ::placeholder {
         /* Chrome, Firefox, Opera, Safari 10.1+ */
         color: gold;
-        opacity: .7;
+        opacity: .8;
         background-color: #1a1a19;
         /* Firefox */
     }
@@ -1464,11 +1464,11 @@ img {
     #form {
         width: 70%;
         text-align: center;
-        background: black;
-        background-size: 100% 100%;
-        border: 4px double gray;
+        background: url(Slow-Cooker-Roast-Garlic-1200-7602.jpg) center;
+        background-size: 150% 150%;
+        border: 4px double grey;
         border-radius: 20px;
-        margin: 50px auto;
+        margin: 100px auto;
     }
     
     #form h2{
