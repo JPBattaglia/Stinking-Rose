@@ -296,7 +296,7 @@ p {
 }
 
 .sidenav a {
-    font-size: 32px;
+    font-size: 28px;
     color: white;
     display: block;
     transition: 1s;
@@ -855,7 +855,7 @@ img {
     .burger {
         float:right;
         align-self: flex-start;
-        margin: -80px 3px 0 0;
+        margin: -80px 0px 0 0;
     }
     
     .logo{
