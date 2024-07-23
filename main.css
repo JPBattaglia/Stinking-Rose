@@ -1166,7 +1166,7 @@ img {
     /* Style the submit button with a specific background color etc */
     input[type=submit] {
         color: gold;
-        padding: 5px 15px;
+        padding: 0px 15px;
         background: #c00;
         width: 115px;
         text-align: center;
