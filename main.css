@@ -842,6 +842,10 @@ img {
         align-self: flex-start;
         margin: -120px 20px;
     }
+    
+    #phone h3{
+        margin-bottom: 50px;
+    }
 }
 
 
@@ -868,20 +872,19 @@ img {
     }
     
     #links{
-        margin: 0px 0;
-        flex-direction: column
-        
-    }
-    
-    #reservation, #newsletter, #phone{
         margin: 0px;
         
     }
     
+    #reservation, #newsletter, #phone{
+        margin: 0px 20px;
+        
+    }
+    
     .burger span{
-        width: 30px;
-        height: 3px;
-        margin: 7px;
+        width: 20px;
+        height: 2px;
+        margin: 5px;
         background: linear-gradient(to left, #a00, #c00, #FF4A4A, #FE8080, #FF4A4A, #c00, #a00);
         border: .5px solid transparent;
         filter: drop-shadow(-1px 0px 2px #000);
@@ -1028,7 +1031,7 @@ img {
         text-shadow: -.5px -.5px 0 green, .5px -.5px 0 green, -.5px .5px 0 green, .5px .5px 0 green;
         margin-top: 50px;
         letter-spacing: 0px;
-        margin-bottom: 10px;
+        margin-bottom: -30px;
     }
     
     #menu {
