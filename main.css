@@ -1042,6 +1042,8 @@ img {
     
     .menu{
         margin-bottom: 50px;
+        width: 110%;
+        margin: 0 -5%;
     }
     
     
