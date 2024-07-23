@@ -883,7 +883,7 @@ img {
     }
     
     .burger span{
-        width: 20px;
+        width: 25px;
         height: 2px;
         margin: 5px;
         background: linear-gradient(to left, #d00, #c00, #FF4A4A, #FE8080, #FF4A4A, #d00, #c00);
