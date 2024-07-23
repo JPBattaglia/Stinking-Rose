@@ -290,7 +290,7 @@ p {
     background-size: 200% 100%;
     overflow-x: hidden;
     transition: .8s;
-    padding-top: 150px;
+    padding-top: 100px;
     font-family: 'Quintessential';
     font-weight: bold;
 }
@@ -855,11 +855,11 @@ img {
     .burger {
         float:right;
         align-self: flex-start;
-        margin: -80px 0px 0 0;
+        margin: -80px 3px 0 0;
     }
     
     .logo{
-        width: 225px;
+        width: 230px;
     }
     
     #banner{
@@ -867,10 +867,14 @@ img {
         margin: auto;
     }
     
+    #links{
+        margin: 50px 0;
+    }
+    
     .burger span{
-        width: 35px;
-        height: 3.5px;
-        margin: 8px;
+        width: 30px;
+        height: 3px;
+        margin: 7px;
         background: linear-gradient(to left, #a00, #c00, #FF4A4A, #FE8080, #FF4A4A, #c00, #a00);
         border: .5px solid transparent;
         filter: drop-shadow(-1px 0px 2px #000);
