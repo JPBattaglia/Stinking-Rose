@@ -306,22 +306,6 @@ p {
     text-decoration: none;
 }
 
-.sidenav a:nth-child(2){
-    margin: 25% 40px 0 50px;
-}
-
-.sidenav a:nth-child(3){
-    margin: 25% 50px 0 35px;
-}
-
-.sidenav a:nth-child(4){
-    margin: 25% 20px 65px;
-} 
-
-.sidenav a:nth-child(5){
-    margin: 25% 40px 0 70px;
-} 
-
 .sidenav a:hover {
     color: #F00;
     text-shadow: 1px 1px 0 Black, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
@@ -528,7 +512,7 @@ img {
     color: #FF2700;
     padding-top: 25%;
     font-family: 'federant' ;
-    background: #A0A4F5 url(GarlicGif.gif) no-repeat center center;
+    background: #A0A4F5 url(garlicgiff.gif) no-repeat center center;
     background-size: 30%;
     height: 100%;
     width: 100%;
@@ -560,6 +544,23 @@ img {
     .sidenav .closebtn {
         margin: 35px 15px;
         padding: 30px 27px 28px 22px;
+    }
+    
+    .sidenav a:nth-child(2){
+        margin: 55% 40px 0 70px;
+    }
+
+    .sidenav a:nth-child(3){
+        margin: 25% 50px 0 48px;
+    }
+
+    
+    .sidenav a:nth-child(4){
+        margin: 25% 25px 0px 40px;
+    }
+    
+    .sidenav a:nth-child(5){
+        margin: 25% 45px 0px 50px;
     }
     
     #banner {
@@ -1266,6 +1267,15 @@ img {
         padding-left: 15px;
     }
     
+    .sidenav a:nth-child(2){
+        margin: 25% 40px 0 50px;
+    }
+
+    .sidenav a:nth-child(3){
+        margin: 25% 50px 0 35px;
+    }
+
+    
     .sidenav a:nth-child(4){
         margin: 25% 25px 0px 20px;
     }
@@ -1291,8 +1301,8 @@ img {
     }
     
     .desknav{
-    font-size: 20px;
-        margin: -15px auto;
+        font-size: 20px;
+        margin: -25px auto;
     }
 
     
@@ -1304,10 +1314,10 @@ img {
         text-transform: uppercase;
         transition: 1s;
         text-decoration: none;
-        padding: 0px 25px;
         color: gold;
-        transition: 1s;
+        transition: .5s;
         text-shadow:  -1px 1px 0px #000, 1px -1px 0px #000;
+        margin: 0px 25px;
     }
 
     .desktop a:hover{
@@ -1316,6 +1326,7 @@ img {
         text-decoration: none;
         transition: 1s;
         font-weight: bolder;
+        transition: .5s;
     }
     
     #rotate,
@@ -1556,16 +1567,12 @@ img {
     }
     
     .desktop a{
-        padding: 0px 20px;
-        font-size: 20px;
+        font-size: 18px;
+        margin: 0 20px;
     }
     
     .desktop{
-        margin: -20px auto;
-    }
-    
-    .desknav{1
-        margin-left: 50px;
+        margin: -25px auto;
     }
     
     .logo{
