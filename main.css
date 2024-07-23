@@ -885,9 +885,9 @@ img {
         width: 20px;
         height: 2px;
         margin: 5px;
-        background: linear-gradient(to left, #a00, #c00, #FF4A4A, #FE8080, #FF4A4A, #c00, #a00);
+        background: linear-gradient(to left, #d00, #c00, #FF4A4A, #FE8080, #FF4A4A, #d00, #c00);
         border: .5px solid transparent;
-        filter: drop-shadow(-1px 0px 2px #000);
+        filter: drop-shadow(0px 0px 10px #f00);
     }
     
     #top{
@@ -1064,7 +1064,7 @@ img {
     }
     
     .sociallink img {
-        width: 25px;
+        width: 35px;
         margin: 0px 10px;
         filter: drop-shadow(2px 1px 1px #000);
         transition: 1s;
