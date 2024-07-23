@@ -157,7 +157,7 @@ h1 {
     text-align: center;
     font-weight: bolder;
     padding: 20px 0;
-    text-shadow: -1px -1px 3px #000, -1px 1px 3px #000, 1px -1px 3px #000, 1px 1px 3px #000;
+    text-shadow: -2px -2px 5px #000, -2px 2px 5px #000, 2px -2px 5px #000, 2px 2px 5px #000;
 }
 
 h2 {
@@ -982,9 +982,10 @@ img {
     h1 {
         font-family: 'Vast Shadow';
         line-height: 22px;
-        letter-spacing: -1.5px;
-        font-size: 13px;
+        letter-spacing: 0px;
+        font-size: 16px;
         margin: -20px auto;
+        width: 300px;
     }
     
     #intro img {
