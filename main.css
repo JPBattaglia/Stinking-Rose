@@ -982,8 +982,8 @@ img {
     h1 {
         font-family: 'Vast Shadow';
         line-height: 22px;
-        letter-spacing: -.5px;
-        font-size: 14px;
+        letter-spacing: -1.5px;
+        font-size: 13px;
         margin: -20px auto;
     }
     
